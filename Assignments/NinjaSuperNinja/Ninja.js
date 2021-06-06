@@ -21,7 +21,8 @@ class Ninja{
         this.salud += 10;
     }
 }
-/* 
+/*
+Comentarlo porque sino se repite cuando lo exporte 
 const ninja1 = new Ninja("Hyabusa");
 console.table(ninja1.sayName());
 ninja1.drinkSake();
