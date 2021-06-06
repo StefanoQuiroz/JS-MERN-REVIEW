@@ -1,9 +1,9 @@
 class Ninja{
     constructor(nombre){
         this.nombre= nombre;
+        this.salud = 10;
         this.velocidad = 3;
         this.fuerza = 3;
-        this.salud = 10;
     }
     
     

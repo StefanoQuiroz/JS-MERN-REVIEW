@@ -13,4 +13,15 @@ Sube la tarea a un repositorio en Github con el nombre ninja.
 
 =================================================================================================================
 
-# 
+# Super Ninja
+
+Clase Sensei
+
+Extiende la clase Ninja y crea la clase Sensei. Un Sensei debería tener 200 de salud, 10 de velocidad y 10 de fuerza por defecto. Además, un Sensei debería tener un nuevo atributo llamado sabiduría , y el valor predeterminado debería ser 10. Finalmente, agrega el métodospeakWisdom(). speakWisdom()debería llamar al métododrinkSake() desde la clase Ninja, antes de console.logging, un mensaje inteligente.
+
+Debes crear un commit con el mensaje "[TAREA] sensei" y subirlo a Github.
+
+1. crear una clase Sensei que hereda de la clase Ninja
+2. agregar un atributo: sabiduría - predeterminado a 10
+3. crear un método: speakWisdom ()
+4. crear un método: drinkSake ()
